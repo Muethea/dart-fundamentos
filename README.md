@@ -18,5 +18,6 @@ Certifique-se de ter o Dart SDK instalado em seu sistema. Você pode baixá-lo e
 
 Clone este repositório para o seu ambiente local:
 ```bash
-
+git clone https://github.com/Muethea/dart-fundamentos.git
+cd dart-fundamentos
 
